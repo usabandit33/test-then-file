@@ -1,12 +1,17 @@
 # Outreach — Test Then File
 
-Sequence starts only after https://usabandit33.github.io/test-then-file/ returns HTTP 200.
+Pages HTTP 200 confirmed 2026-09-30.
 
-- T1 Day 0 Pages live
-- T2 Day 3–4
+- T1 Day 0 Pages live — **sent 2026-09-30 ×5**
+- T2 Day 3–4 — due ~2026-10-03/04
 - T3 Day 7–10
 - T4 Day 13–14
 
 From kaelnventures@gmail.com, Matt M. Phone + domain in every email. No money in T1–T4.
 
-Status 2026-09-29: Pages not enabled. No sends.
+## T1 sent 2026-09-30
+1. I Got Your Backflow — matt@igotyourbackflow.com — 210-601-1317
+2. Lone Star Sprinkler — info@lonestarsprinklers.com — 210-215-0349
+3. All American Irrigation Systems — office@sanantoniosprinklers.com — 210-826-6474
+4. Grow with the Flow — mike.gwtf@gmail.com — 210-633-6889
+5. Aquaflow — backflow@aquaflowtx.com — 210-259-9370
