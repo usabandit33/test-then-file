@@ -1,11 +1,11 @@
 # Outreach — Test Then File
 
-Pages HTTP 200 confirmed 2026-09-30 and again 2026-10-03.
+Pages HTTP 200 confirmed 2026-09-30, 2026-10-03, and 2026-10-07.
 
 - T1 Day 0 Pages live — **sent 2026-09-30 ×5**
 - T2 Day 3–4 — **sent 2026-10-03 ×5**
-- T3 Day 7–10 — due ~2026-10-07/10
-- T4 Day 13–14
+- T3 Day 7–10 — **sent 2026-10-07 ×5**
+- T4 Day 13–14 — due ~2026-10-13/14
 
 From kaelnventures@gmail.com, Matt M. Phone + domain in every email. No money in T1–T4.
 
@@ -18,3 +18,6 @@ From kaelnventures@gmail.com, Matt M. Phone + domain in every email. No money in
 
 ## T2 sent 2026-10-03
 Same five. Subject: Re: {Phone} on the backflow checklist. No bounce seen at send.
+
+## T3 sent 2026-10-07
+Same five. Subject: Backflow test vs repair — {Company short}. Question from answers.html: whether an annual test is the same as a repair. No bounce seen before send.
